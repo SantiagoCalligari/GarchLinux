@@ -1,0 +1,13 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAQAAALAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=704
+eDP-1 Width 1920x1080 eDP-1=1028
+eDP-1 XPosition 1920x1080 eDP-1=454
+eDP-1 YPosition 1920x1080 eDP-1=182
+
+[Open-with settings]
+CompletionMode=1
+History=google,alac
