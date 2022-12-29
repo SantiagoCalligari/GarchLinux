@@ -5,4 +5,16 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-count=0
+clientId1=10b8e7d46e000167232920400000006990005
+clientId2=10b8e7d46e000167232976300000006990013
+count=2
+discardCommand1[$e]=rm,$HOME/.config/session/systemsettings_10b8e7d46e000167232920400000006990005_1672330071_129407
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10b8e7d46e000167232976300000006990013_1672330071_129770
+program1=/usr/bin/systemsettings
+program2=/usr/bin/dolphin
+restartCommand1=/usr/bin/systemsettings,-session,10b8e7d46e000167232920400000006990005_1672330071_129407
+restartCommand2=/usr/bin/dolphin,-session,10b8e7d46e000167232976300000006990013_1672330071_129770
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=santiago
+userId2=santiago

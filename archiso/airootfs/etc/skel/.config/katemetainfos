@@ -1,3 +1,27 @@
+[file:///home/santiago/Documentos/GitHub/GarchLinux/archiso/airootfs/etc/skel/.bashrc]
+Bookmarks=
+Checksum=095d34278a1ed45a70ace5d66bd14e36f31287af
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,12,29,16,17,38.907
+URL=file:///home/santiago/Documentos/GitHub/GarchLinux/archiso/airootfs/etc/skel/.bashrc
+
+[file:///home/santiago/Documentos/GitHub/GarchLinux/archiso/airootfs/etc/skel/.zshrc]
+Bookmarks=
+Checksum=9005ea02d8d15c9ce0b26d1c9e95af23d553ecd1
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2022,12,29,16,17,35.04
+URL=file:///home/santiago/Documentos/GitHub/GarchLinux/archiso/airootfs/etc/skel/.zshrc
+
 [file:///home/santiago/alci-iso/archiso/packages.x86_64]
 Bookmarks=
 Checksum=76cdd2e07ef66cddff9f6b9e3d8b71ed0b81aa41

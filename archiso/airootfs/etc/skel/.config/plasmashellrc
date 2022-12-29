@@ -1,5 +1,7 @@
-[PlasmaTransientsConfig]
-PreloadWeight=0
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documentos/GitHub/GarchLinux/GarchaLinuxImagenes/GarchDesktop.png,file:$HOME/.config/KDE/GarchDesktop.png
+Recent URLs[$e]=file:$HOME/.config/KDE/,file:$HOME/
+detailViewIconSize=16
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
