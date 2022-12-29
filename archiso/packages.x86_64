@@ -1,3 +1,4 @@
+virt-manager
 tor-browser
 calibre
 grub-theme-vimix-color-1080p-git
@@ -7,8 +8,8 @@ alsa-utils
 neovide
 ark
 amd-ucode
-arch-install-scripts
-archinstall
+#arch-install-scripts
+#archinstall
 b43-fwcutter
 base
 bind
@@ -95,7 +96,7 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
+#reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -140,7 +141,7 @@ zsh
 ###             VIA CALAMARES CONFIG                ###
 #######################################################
 
-alci-dwm
+#alci-dwm
 #alci-dwm-nemesis
 alci-calamares
 #alci-calamares-dev
