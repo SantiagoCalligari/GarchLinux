@@ -2,18 +2,20 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=virt-manager
+count=1
 
 [Session: saved at previous logout]
-clientId1=10b8e7d46e000167232920400000006990005
-clientId2=10b8e7d46e000167232976300000006990013
+clientId1=10b8e7d46e000167245270500000007010007
+clientId2=10b8e7d46e000167245518000000007010012
 count=2
-discardCommand1[$e]=rm,$HOME/.config/session/systemsettings_10b8e7d46e000167232920400000006990005_1672330071_129407
-discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10b8e7d46e000167232976300000006990013_1672330071_129770
-program1=/usr/bin/systemsettings
+discardCommand1[$e]=rm,$HOME/.config/session/dolphin_10b8e7d46e000167245270500000007010007_1672457924_783604
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10b8e7d46e000167245518000000007010012_1672457924_783618
+program1=/usr/bin/dolphin
 program2=/usr/bin/dolphin
-restartCommand1=/usr/bin/systemsettings,-session,10b8e7d46e000167232920400000006990005_1672330071_129407
-restartCommand2=/usr/bin/dolphin,-session,10b8e7d46e000167232976300000006990013_1672330071_129770
+restartCommand1=/usr/bin/dolphin,-session,10b8e7d46e000167245270500000007010007_1672457924_783604
+restartCommand2=/usr/bin/dolphin,-session,10b8e7d46e000167245518000000007010012_1672457924_783618
 restartStyleHint1=0
 restartStyleHint2=0
 userId1=santiago

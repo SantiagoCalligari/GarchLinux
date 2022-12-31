@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/santiago/a.sh
+Icon=dialog-scripts
+Name=a.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true

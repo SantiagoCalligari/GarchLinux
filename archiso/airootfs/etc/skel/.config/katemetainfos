@@ -22,6 +22,66 @@ Mode Set By User=false
 Time=2022,12,29,16,17,35.04
 URL=file:///home/santiago/Documentos/GitHub/GarchLinux/archiso/airootfs/etc/skel/.zshrc
 
+[file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/1-welcometo.svg]
+Bookmarks=
+Checksum=3f268122de87f4b720aba190bd0347042c5b0413
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2022,12,31,6,13,58.703
+URL=file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/1-welcometo.svg
+
+[file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/branding.desc]
+Bookmarks=
+Checksum=90808e43b93e4575986f0446fea2c0e70867a784
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,12,31,6,14,24.884
+URL=file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/branding.desc
+
+[file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/show.qml]
+Bookmarks=
+Checksum=e5baf6fd4748fd320dd25004db94d4d1c84087c2
+Encoding=UTF-8
+Highlighting=QML
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=QML
+Mode Set By User=false
+Time=2022,12,31,6,14,52.542
+URL=file:///home/santiago/GarchLinux/archiso/airootfs/etc/calamares/branding/default/show.qml
+
+[file:///home/santiago/alci-iso-hardened/archiso/airootfs/etc/skel/.config/a.sh]
+Bookmarks=
+Checksum=de8c56680f60494764241091adffff7ff9dc90af
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2022,12,31,17,53,35.735
+URL=file:///home/santiago/alci-iso-hardened/archiso/airootfs/etc/skel/.config/a.sh
+
+[file:///home/santiago/alci-iso-hardened/archiso/packages.x86_64]
+Bookmarks=
+Checksum=8b80138bd3930c60698301c9800cc46184af6978
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,12,31,16,59,26.421
+URL=file:///home/santiago/alci-iso-hardened/archiso/packages.x86_64
+
 [file:///home/santiago/alci-iso/archiso/packages.x86_64]
 Bookmarks=
 Checksum=76cdd2e07ef66cddff9f6b9e3d8b71ed0b81aa41
@@ -33,3 +93,15 @@ Mode=Normal
 Mode Set By User=false
 Time=2022,12,28,1,39,38.217
 URL=file:///home/santiago/alci-iso/archiso/packages.x86_64
+
+[file:///run/media/santiago/Garch_202212/arch/version]
+Bookmarks=
+Checksum=29d6face7475d5041d804e1cf95fbdf0408c3ff2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,12,31,2,53,21.542
+URL=file:///run/media/santiago/Garch_202212/arch/version

@@ -121,6 +121,9 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[MainWindow]
+eDP-1 Window-Maximized 1920x1080 eDP-1=true
+
 [filetree]
 editShade=32,81,107
 listMode=false

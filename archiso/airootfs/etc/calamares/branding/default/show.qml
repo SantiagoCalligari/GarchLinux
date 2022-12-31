@@ -39,7 +39,7 @@ Presentation
         width: parent.width; height: parent.height
         horizontalAlignment: Image.AlignCenter
         verticalAlignment: Image.AlignTop
-        fillMode: Image.Stretch
+        fillMode: Image.PreserveAspectFit
         anchors.fill: parent
     	}
     }
@@ -55,7 +55,7 @@ Presentation
         width: parent.width; height: parent.height
         horizontalAlignment: Image.AlignCenter
         verticalAlignment: Image.AlignTop
-        fillMode: Image.Stretch
+        fillMode: Image.PreserveAspectFit
         anchors.fill: parent
     	}
 

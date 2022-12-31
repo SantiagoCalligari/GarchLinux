@@ -5,6 +5,3 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 Id_1=417cc9fc-b1e7-4998-ae5a-db7857e0aecd
 Number=1
 Rows=1
-
-[org.kde.kdecoration2]
-theme=__aurorae__svg__MonochromeBlur

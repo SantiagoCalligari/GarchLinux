@@ -1,12 +1,22 @@
+[KFileDialog Settings]
+Recent Files[$e]=a.sh,file:$HOME/a.sh
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documentos/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080 eDP-1=529
+eDP-1 Width 1920x1080 eDP-1=416
+
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
-eDP-1 Height 1920x1080 eDP-1=704
-eDP-1 Width 1920x1080 eDP-1=1028
-eDP-1 XPosition 1920x1080 eDP-1=896
-eDP-1 YPosition 1920x1080 eDP-1=31
+eDP-1 Height 1920x1080 eDP-1=708
+eDP-1 Width 1920x1080 eDP-1=1036
+eDP-1 Window-Maximized 1920x1080 eDP-1=true
+eDP-1 XPosition 1920x1080 eDP-1=442
+eDP-1 YPosition 1920x1080 eDP-1=177
 
 [Open-with settings]
 CompletionMode=1

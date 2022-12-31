@@ -238,6 +238,7 @@ activate task manager entry 8=Meta+8,Meta+8,Activar la entrada 8 del gestor de t
 activate task manager entry 9=Meta+9,Meta+9,Activar la entrada 9 del gestor de tareas
 activate widget 23=none,none,Activar el elemento gráfico Lanzador de aplicaciones
 activate widget 3=Alt+F1,none,Activar el elemento gráfico Lanzador de aplicaciones
+activate widget 43=none,none,Activar el elemento gráfico Lanzador de aplicaciones
 clear-history=none,,Borrar historial del portapapeles
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Menú emergente de acciones automático
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Mover el foco del teclado entre paneles
