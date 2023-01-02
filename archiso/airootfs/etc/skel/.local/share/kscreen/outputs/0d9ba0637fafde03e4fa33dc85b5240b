@@ -1,0 +1,19 @@
+{
+    "id": "0d9ba0637fafde03e4fa33dc85b5240b",
+    "metadata": {
+        "fullname": "xrandr-Chimei Innolux Corporation",
+        "name": "eDP-1"
+    },
+    "mode": {
+        "refresh": 60.007850646972656,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

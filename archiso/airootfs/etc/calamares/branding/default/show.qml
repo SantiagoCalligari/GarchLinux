@@ -51,7 +51,7 @@ Presentation
 
     Image {
         id: background2
-        source: "2-alci.png"
+        source: "GarchLinux2.png"
         width: parent.width; height: parent.height
         horizontalAlignment: Image.AlignCenter
         verticalAlignment: Image.AlignTop

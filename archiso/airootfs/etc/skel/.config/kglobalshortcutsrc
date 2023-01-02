@@ -1,6 +1,6 @@
 [ActivityManager]
 _k_friendly_name=Gestor de actividades
-switch-to-activity-d5b51d8d-b7a5-4c02-8fbe-5834ed5296b5=none,none,Cambiar a la actividad «Por omisión»
+switch-to-activity-6b355e0e-10ce-4eb7-b69f-7bb5f6b98b29=none,none,Cambiar a la actividad «Default»
 
 [Alacritty.desktop]
 New=none,none,New Terminal
@@ -126,7 +126,7 @@ Walk Through Windows of Current Application Alternative=none,,Recorrer las venta
 Walk Through Windows of Current Application Alternative (Reverse)=none,,Recorrer las ventanas de la aplicación actual de modo alternativo (hacia atrás)
 Window Above Other Windows=none,,Mantener la ventana sobre las demás
 Window Below Other Windows=none,,Mantener la ventana bajo las demás
-Window Close=Alt+F4\tAlt+W,Alt+F4,Cerrar la ventana
+Window Close=Alt+F4,Alt+F4,Cerrar la ventana
 Window Fullscreen=none,,Ventana en pantalla completa
 Window Grow Horizontal=none,,Expandir la ventana horizontalmente
 Window Grow Vertical=none,,Expandir la ventana verticalmente
@@ -198,18 +198,22 @@ view_actual_size=Meta+0,Meta+0,Ampliar al tamaño real
 view_zoom_in=Meta++\tMeta+=,Meta++,Ampliar
 view_zoom_out=Meta+-,Meta+-,Reducir
 
+[neovide.desktop]
+_k_friendly_name=Neovide (nvim)
+_launch=Alt+N,none,Neovide (nvim)
+
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
 _launch=Meta+E,Meta+E,Dolphin
 
 [org.kde.krunner.desktop]
-RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Ejecutar orden sobre el contenido del portapapeles
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
 _k_friendly_name=KRunner
 _launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
 
 [org.kde.plasma.emojier.desktop]
-_k_friendly_name=Selector de emojis
-_launch=Meta+.,Meta+.,Selector de emojis
+_k_friendly_name=Emoji Selector
+_launch=Meta+.,Meta+.,Emoji Selector
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Disminuir el brillo del teclado
@@ -236,9 +240,7 @@ activate task manager entry 6=Meta+6,Meta+6,Activar la entrada 6 del gestor de t
 activate task manager entry 7=Meta+7,Meta+7,Activar la entrada 7 del gestor de tareas
 activate task manager entry 8=Meta+8,Meta+8,Activar la entrada 8 del gestor de tareas
 activate task manager entry 9=Meta+9,Meta+9,Activar la entrada 9 del gestor de tareas
-activate widget 23=none,none,Activar el elemento gráfico Lanzador de aplicaciones
 activate widget 3=Alt+F1,none,Activar el elemento gráfico Lanzador de aplicaciones
-activate widget 43=none,none,Activar el elemento gráfico Lanzador de aplicaciones
 clear-history=none,,Borrar historial del portapapeles
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Menú emergente de acciones automático
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Mover el foco del teclado entre paneles
@@ -258,10 +260,10 @@ switch to previous activity=none,,Cambiar a la actividad anterior
 toggle do not disturb=none,,Conmutar no molestar
 
 [systemsettings.desktop]
-_k_friendly_name=Preferencias del sistema
-_launch=Tools,Tools,Preferencias del sistema
-kcm-kscreen=none,none,Configuración de la pantalla
-kcm-lookandfeel=none,none,Tema global
-kcm-users=none,none,Usuarios
-powerdevilprofilesconfig=none,none,Ahorro de energía
-screenlocker=none,none,Bloqueo de pantalla
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+kcm-kscreen=none,none,Display Configuration
+kcm-lookandfeel=none,none,Global Theme
+kcm-users=none,none,Users
+powerdevilprofilesconfig=none,none,Energy Saving
+screenlocker=none,none,Screen Locking

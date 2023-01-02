@@ -107,16 +107,18 @@ ForegroundNormal=170,170,172
 ForegroundPositive=85,255,255
 ForegroundVisited=127,140,141
 
+[DirSelect Dialog]
+DirSelectDialog Size=848,598
+History Items[$e]=file:$HOME/Desktop
+
 [General]
-BrowserApplication=google-chrome.desktop
-ColorSchemeHash=51d730535134e778fe069690ae4f1f61fb700fdc
+ColorSchemeHash=d2f9f23c62b2c7529878a3b4c96c2902e98086db
 
 [Icons]
 Theme=breeze-dark
 
 [KDE]
 LookAndFeelPackage=com.gitlab.pwyde.monochrome-kde
-SingleClick=false
 
 [KFileDialog Settings]
 Allow Expansion=false

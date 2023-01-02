@@ -1,6 +1,10 @@
 [AC]
 icon=battery-charging
 
+[AC][DPMSControl]
+idleTime=600
+lockBeforeTurnOff=0
+
 [AC][DimDisplay]
 idleTime=300000
 
@@ -8,7 +12,6 @@ idleTime=300000
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
-triggerLidActionWhenExternalMonitorPresent=false
 
 [Battery]
 icon=battery-060
@@ -24,7 +27,10 @@ idleTime=120000
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
-triggerLidActionWhenExternalMonitorPresent=false
+
+[Battery][SuspendSession]
+idleTime=600000
+suspendType=1
 
 [LowBattery]
 icon=battery-low
@@ -43,9 +49,7 @@ idleTime=60000
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
-triggerLidActionWhenExternalMonitorPresent=false
 
 [LowBattery][SuspendSession]
 idleTime=300000
-suspendThenHibernate=false
 suspendType=1

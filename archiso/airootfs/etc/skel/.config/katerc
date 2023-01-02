@@ -121,15 +121,12 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
-[MainWindow]
-eDP-1 Window-Maximized 1920x1080 eDP-1=true
-
 [filetree]
-editShade=32,81,107
+editShade=183,220,246
 listMode=false
 shadingEnabled=true
 showCloseButton=false
 showFullPathOnRoots=false
 showToolbar=true
 sortRole=0
-viewShade=63,69,70
+viewShade=211,190,222

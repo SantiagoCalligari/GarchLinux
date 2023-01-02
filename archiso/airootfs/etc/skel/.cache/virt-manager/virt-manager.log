@@ -1,0 +1,38 @@
+[Sun, 01 Jan 2023 23:41:41 virt-manager 1283] DEBUG (cli:204) Version 4.1.0 launched with command line: /usr/bin/virt-manager
+[Sun, 01 Jan 2023 23:41:41 virt-manager 1283] DEBUG (virtmanager:167) virt-manager version: 4.1.0
+[Sun, 01 Jan 2023 23:41:41 virt-manager 1283] DEBUG (virtmanager:168) virtManager import: /usr/share/virt-manager/virtManager
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (virtmanager:205) PyGObject version: 3.42.2
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (virtmanager:209) GTK version: 3.24.36
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (systray:84) Imported AppIndicator3=<IntrospectionModule 'AppIndicator3' from '/usr/lib/girepository-1.0/AppIndicator3-0.1.typelib'>
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (systray:90) Using AppIndicator3 for systray
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (systray:476) Showing systray: False
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (inspection:206) python guestfs is not installed
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (engine:111) No stored URIs found.
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (engine:461) processing cli command uri= show_window=manager domain=
+[Sun, 01 Jan 2023 23:41:42 virt-manager 1660] DEBUG (engine:464) No cli action requested, launching default window
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (manager:185) Showing manager
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (engine:316) window counter incremented to 1
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (engine:211) Initial gtkapplication activated
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (engine:135) Probed default URI=lxc:///
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (connection:482) conn=lxc:/// changed to state=Conectando
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (connection:903) Scheduling background open thread for lxc:///
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (connection:838) conn.close() uri=lxc:///
+[Sun, 01 Jan 2023 23:41:43 virt-manager 1660] DEBUG (connection:482) conn=lxc:/// changed to state=Desconectado
+[Sun, 01 Jan 2023 23:41:44 virt-manager 1660] DEBUG (error:101) error dialog message:
+summary=Unable to connect to libvirt lxc:///.
+
+Failed to connect socket to '/var/run/libvirt/virtlxcd-sock': No such file or directory
+details=Libvirt URI is: lxc:///
+
+Traceback (most recent call last):
+  File "/usr/share/virt-manager/virtManager/connection.py", line 923, in _do_open
+    self._backend.open(cb, data)
+  File "/usr/share/virt-manager/virtinst/connection.py", line 171, in open
+    conn = libvirt.openAuth(self._open_uri,
+  File "/usr/lib/python3.10/site-packages/libvirt.py", line 147, in openAuth
+    raise libvirtError('virConnectOpenAuth() failed')
+libvirt.libvirtError: Failed to connect socket to '/var/run/libvirt/virtlxcd-sock': No such file or directory
+[Sun, 01 Jan 2023 23:42:11 virt-manager 1660] DEBUG (manager:196) Closing manager
+[Sun, 01 Jan 2023 23:42:11 virt-manager 1660] DEBUG (engine:323) window counter decremented to 0
+[Sun, 01 Jan 2023 23:42:11 virt-manager 1660] DEBUG (engine:343) No windows found, requesting app exit
+[Sun, 01 Jan 2023 23:42:11 virt-manager 1660] DEBUG (engine:369) Exiting app normally.

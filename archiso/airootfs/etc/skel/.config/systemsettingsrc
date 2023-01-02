@@ -1,23 +1,15 @@
-[KFileDialog Settings]
-Recent Files[$e]=a.sh,file:$HOME/a.sh
-Recent URLs[$e]=file:$HOME/,file:$HOME/Documentos/
-detailViewIconSize=16
-
-[KPropertiesDialog]
-eDP-1 Height 1920x1080 eDP-1=529
-eDP-1 Width 1920x1080 eDP-1=416
-
 [MainWindow]
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAPuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1=eDP-1
-eDP-1 Height 1920x1080 eDP-1=708
-eDP-1 Width 1920x1080 eDP-1=1036
-eDP-1 Window-Maximized 1920x1080 eDP-1=true
-eDP-1 XPosition 1920x1080 eDP-1=442
-eDP-1 YPosition 1920x1080 eDP-1=177
+Virtual-1=Virtual-1
+Virtual-1 Height 1280x800 Virtual-1=680
+Virtual-1 Width 1280x800 Virtual-1=1020
+Virtual-1 Window-Maximized 1280x800 Virtual-1=true
+Virtual-1 Window-Maximized 1920x1080 Virtual-1=true
+Virtual-1 XPosition 1280x800 Virtual-1=213
+Virtual-1 YPosition 1280x800 Virtual-1=72
 
 [Open-with settings]
 CompletionMode=1
-History=google,alac
+History=google,ala

@@ -1,0 +1,19 @@
+{
+    "id": "bb6ad72dc802b000932c73ad20996ae5",
+    "metadata": {
+        "fullname": "xrandr-Red Hat, Inc.-QEMU Monitor",
+        "name": "Virtual-1"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}
