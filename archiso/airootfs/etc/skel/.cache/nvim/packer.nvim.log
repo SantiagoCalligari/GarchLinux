@@ -1,0 +1,2 @@
+[WARN  lun 02 ene 2023 22:34:18 4164798842447] .../site/pack/packer/opt/packer.nvim/lua/packer/display.lua:610: Potential breaking change in commit 5efd8f6 of numToStr/Comment.nvim
+[WARN  lun 02 ene 2023 22:34:18 4164798880989] .../site/pack/packer/opt/packer.nvim/lua/packer/display.lua:610: Potential breaking change in commit 2a16514 of numToStr/Comment.nvim

@@ -34,4 +34,27 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/santiago/.config/KDE/GarchDesktop.png" added="2023-01-03T00:38:30.073000Z" modified="2023-01-03T00:38:30.073000Z" visited="2023-01-03T00:38:30.073000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-03T00:38:30.073000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/device" added="2023-01-03T01:36:21.605000Z" modified="2023-01-03T01:36:21.605000Z" visited="2023-01-03T01:36:21.605000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-01-03T01:36:21.605000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

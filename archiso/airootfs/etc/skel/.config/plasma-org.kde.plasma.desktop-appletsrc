@@ -22,11 +22,11 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][General]
-positions={"1280x800":[]\\,"1920x1080":[""]}
-url=file://~/Desktop
+positions={"1280x800":[]\\,"1920x1080":[]}
+url=file:///home/santiago/Escritorio
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/liveuser/.config/GarchDesktop.png
+Image=/home/santiago/.config/KDE/GarchDesktop.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
@@ -53,7 +53,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
 popupHeight=514
-popupWidth=645
+popupWidth=649
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -84,7 +84,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -97,6 +97,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
+popupHeight=432
+popupWidth=432
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -134,6 +136,9 @@ plugin=org.kde.plasma.networkmanagement
 [Containments][8][Applets][20]
 immutability=1
 plugin=org.kde.plasma.battery
+
+[Containments][8][Applets][20][Configuration]
+PreloadWeight=55
 
 [Containments][8][Applets][9]
 immutability=1

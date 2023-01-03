@@ -1,12 +1,15 @@
 [KFileDialog Settings]
-Recent Files[$e]=GarchDesktop.png,file:$HOME/.config/GarchDesktop.png
-Recent URLs[$e]=file:$HOME/.config/,file:$HOME/
+Recent Files[$e]=GarchDesktop.png,file:$HOME/.config/KDE/GarchDesktop.png,file:$HOME/.config/GarchDesktop.png
+Recent URLs[$e]=file:$HOME/.config/,file:$HOME/,file:$HOME/.config/KDE/
 detailViewIconSize=16
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
 [PlasmaViews][Panel 2][Horizontal1280]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1920]
 thickness=44
 
 [Updates]
