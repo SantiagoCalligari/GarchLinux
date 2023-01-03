@@ -1,7 +1,7 @@
 {
   "check-book-splitter-state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAAC//////////8A/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
   },
   "custom_colors_for_color_dialog": [
     [
@@ -112,49 +112,49 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 326,
-      "width": 821,
+      "width": 1035,
       "x": 25,
       "y": 10
     },
     "full_screened": false,
     "geometry": {
       "height": 297,
-      "width": 821,
+      "width": 1035,
       "x": 25,
       "y": 39
     },
     "maximized": false,
     "normal_geometry": {
       "height": 297,
-      "width": 821,
+      "width": 1035,
       "x": 25,
       "y": 39
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAZAAAACgAAA00AAAFPAAAAGQAAACcAAANNAAABTwAAAAAAAAAABQAAAAAZAAAAJwAAA00AAAFP"
+      "__value__": "AdnQywADAAAAAAAZAAAACgAABCMAAAFPAAAAGQAAACcAAAQjAAABTwAAAAAAAAAAB4AAAAAZAAAAJwAABCMAAAFP"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 800,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Red Hat, Inc.",
-      "model": "QEMU Monitor-",
-      "name": "Virtual-1",
+      "manufacturer": "Chimei Innolux Corporation",
+      "model": "",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 800,
-        "width": 1280
+        "height": 1080,
+        "width": 1920
       },
       "virtual_geometry": {
-        "height": 800,
-        "width": 1280,
+        "height": 1080,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -162,7 +162,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAAA1PwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAD4AAADUAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAIAA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhYA////AAAAAQAAAaoAAADU/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPgAAANQAAABTAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA7AP///wAAAH8AAADUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAAA1PwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAD4AAADUAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAIAA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhYA////AAAAAQAAAoAAAADU/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPgAAANQAAABTAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA7AP///wAAAH8AAADUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
   },
   "reports-ui-state": {},
   "saved_seaches_state": {

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
-  <bookmark href="file:///home/liveuser/.config/GarchDesktop.png" added="2023-01-01T23:50:46.219000Z" modified="2023-01-01T23:51:25.108000Z" visited="2023-01-01T23:51:25.108000Z">
+  <bookmark href="file:///home/santiago/.config/GarchDesktop.png" added="2023-01-03T02:52:28.685000Z" modified="2023-01-03T02:52:28.685000Z" visited="2023-01-03T02:52:28.685000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -8,51 +8,7 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-01T23:50:46.219000Z" count="1"/>
-        <bookmark:application name="" exec="dolphin %u" modified="2023-01-01T23:51:25.108000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/liveuser/.histfile" added="2023-01-01T23:50:46.383000Z" modified="2023-01-01T23:50:46.383000Z" visited="2023-01-01T23:50:46.383000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-01T23:50:46.383000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/liveuser/.zshrc" added="2023-01-02T01:40:57.767000Z" modified="2023-01-02T01:40:57.767000Z" visited="2023-01-02T01:40:57.767000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-02T01:40:57.767000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/santiago/.config/KDE/GarchDesktop.png" added="2023-01-03T00:38:30.073000Z" modified="2023-01-03T00:38:30.073000Z" visited="2023-01-03T00:38:30.073000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-03T00:38:30.073000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/login/device" added="2023-01-03T01:36:21.605000Z" modified="2023-01-03T01:36:21.605000Z" visited="2023-01-03T01:36:21.605000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-01-03T01:36:21.605000Z" count="1"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-03T02:52:28.685000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

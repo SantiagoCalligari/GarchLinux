@@ -1,5 +1,5 @@
-[Favorites-org.kde.plasma.kickoff.favorites.instance-3-6b355e0e-10ce-4eb7-b69f-7bb5f6b98b29]
-ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Alacritty.desktop,applications:github-desktop.desktop
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-d952a637-4e5e-4473-b06d-c1c557619e9c]
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:calibre-gui.desktop,applications:github-desktop.desktop,applications:virt-manager.desktop,applications:google-chrome.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
-ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Alacritty.desktop,applications:github-desktop.desktop
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:calibre-gui.desktop,applications:github-desktop.desktop,applications:virt-manager.desktop,applications:google-chrome.desktop

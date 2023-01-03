@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Monochrome KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/1279077</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>23964</downloads>
+  <installedfile>/home/santiago/.local/share/plasma/desktoptheme/Monochrome</installedfile>
+  <id>1279077</id>
+  <releasedate>2021-02-22</releasedate>
+  <summary>A dark theme inspired by black and white photography.&lt;br />
+&lt;br />
+See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde" target="_blank" rel="nofollow">project&lt;/a> page for more information and recommendations.&lt;br />
+&lt;br />
+Theme is based on the original work by &lt;a href="https://github.com/PapirusDevelopmentTeam" target="_blank" rel="nofollow">Papirus Development Team&lt;/a> and &lt;a href="https://www.pling.com/u/x-varlesh-x/" target="_blank" rel="nofollow">Alexey Varfolomeev&lt;/a> which can be found &lt;a href="https://www.pling.com/p/1229134/" target="_blank" rel="nofollow">here&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/1279077/f94f7c3f0bae504f3a794f44cc87cbb04f3102de97c34f15dea7f49020d9f80c0e98.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/1279077/f94f7c3f0bae504f3a794f44cc87cbb04f3102de97c34f15dea7f49020d9f80c0e98.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQwMzM1MTgiLCJvIjoiMSIsInMiOiJlOWMyNzA3YjU3ZWZhNWYyNmI2YzNjNDgyY2I0ZDNkNDRmYjcwY2IyZWE0MTcxNjk2ZDIwM2E0NDk1Yjk1MjYxMTc4NzgxYTZiZTdjOWI4NTFlNDEzMjkxYmZhMmMyZWZhZmZhMThlMzMxM2E2OTU2NzE4NWNkYzg2NTY1MDI1NyIsInQiOjE2NzI3MTgwNTksInN0ZnAiOm51bGwsInN0aXAiOiIxODYuMTMuOTcuODAifQ.DyYttJ9mZsZ53RxXCZULuDC9pvzauKHBXwtCzA8fGrE/monochrome-dekstoptheme.tar.gz</payload>
+  <tags>linux,greyscale,gplv3,kde,dark,monochrome,unix,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -2,7 +2,7 @@
   "add_formats_to_existing": false,
   "case_sensitive": false,
   "check_for_dupes_on_ctl": false,
-  "database_path": "/home/liveuser/library1.db",
+  "database_path": "/home/santiago/library1.db",
   "filename_pattern": "(?P<title>.+) - (?P<author>[^_]+)",
   "input_format_order": [
     "EPUB",
@@ -23,7 +23,7 @@
     "PDF",
     "TXT"
   ],
-  "installation_uuid": "a978b331-a691-4672-9b2b-94929d2c5d79",
+  "installation_uuid": "e5a603a8-2aab-46fe-b2e9-f1dd44410dec",
   "isbndb_com_key": "",
   "language": null,
   "library_path": null,

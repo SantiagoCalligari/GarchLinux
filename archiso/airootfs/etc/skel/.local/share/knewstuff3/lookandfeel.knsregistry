@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Monochrome KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/1361190</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>80</rating>
+  <downloads>26670</downloads>
+  <installedfile>/home/santiago/.local/share/plasma/look-and-feel/com.gitlab.pwyde.monochrome-kde</installedfile>
+  <id>1361190</id>
+  <releasedate>2021-02-22</releasedate>
+  <summary>A dark theme inspired by black and white photography.&lt;br />
+&lt;br />
+See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde" target="_blank" rel="nofollow">project&lt;/a> page for more information and recommendations.&lt;br />
+&lt;br />
+Theme is based on the original work by &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/1361190/f94f7c3f0bae504f3a794f44cc87cbb04f3127f2cbbb92b507ae317fd951cdf81f43.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/1361190/f94f7c3f0bae504f3a794f44cc87cbb04f3127f2cbbb92b507ae317fd951cdf81f43.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQwMzM3ODYiLCJvIjoiMSIsInMiOiIxNDA3YmYwNDk1ZWMzNGZiYzlmMzAwMTNiMTEyMjk1NGQ3ZWEyYjcxMjY5MTE5ZTI1Y2E5M2RlMzAxN2JhOWU5YWNlMzRlMmRkNTFmZmQ4NDdkN2U3ZTdlNDE1MTYxZTJlMjgzMzg1ZmYyOGYyODNiODRjMGE0MmIyN2RmMmJhNSIsInQiOjE2NzI3MTgwNDEsInN0ZnAiOm51bGwsInN0aXAiOiIxODYuMTMuOTcuODAifQ.EgjqsQuKYdUyQo7Prz2vskoTulJZyIjV7Zbw44wRyrs/com.gitlab.pwyde.monochrome-kde.tar.gz</payload>
+  <tags>dark,kde,linux,gplv3,greyscale,theme,plasma,unix,monochrome,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
