@@ -1,0 +1,11 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 XPosition 1920x1080 eDP-1=420
+eDP-1 YPosition 1920x1080 eDP-1=177
+
+[Open-with settings]
+CompletionMode=1
+History=chro,ala
