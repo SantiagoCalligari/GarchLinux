@@ -24,14 +24,23 @@ Before installing Garch Linux, you will need the following:
 ## Installation on Linux
 
 1. Download the Garch Linux installation image from the official website.
+
 2. Burn the image to a bootable device using `dd`.
+
    - To do this, open a terminal and enter the following command:
+   
 `sudo dd if=path/to/garch.iso of=/dev/sdx bs=4M status=progress oflag=sync`
+
    -Replace `/dev/sdx` with the device name of your bootable device (e.g., `/dev/sdb` for a USB drive).
+   
 3. Insert the bootable device into your computer and power it on.
+
 4. Press the appropriate key to enter the boot menu (this may vary depending on your computer's BIOS).
+
 5. Select the bootable device from the menu and press Enter.
+
 6. The Garch Linux boot menu will appear. Select the "Install Garch Linux" option and press Enter.
+
 7. The Calamares installer will launch. Follow the prompts to complete the installation process.
 
 ## Installation on Windows
