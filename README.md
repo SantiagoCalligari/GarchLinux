@@ -17,7 +17,7 @@ Overall, Garch Linux is a professional and well-crafted project that is perfect 
 Before installing Garch Linux, you will need the following:
 
 - A computer with an x86_64 processor
-- At least 512 MB of RAM
+- At least 4096 MB of RAM
 - A bootable device (e.g., USB drive, CD-ROM)
 - The Garch Linux installation image (available for download from the official website)
 
