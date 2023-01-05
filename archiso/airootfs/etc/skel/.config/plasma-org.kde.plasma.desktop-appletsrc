@@ -16,6 +16,18 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][General]
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/config.tar.gz"\\,"0"\\,"1"\\,"desktop:/init.sh"\\,"0"\\,"2"]}
+sortMode=-1
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/etc/wallpaper/GarchDesktop.png
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -71,7 +83,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -84,6 +96,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
+popupHeight=432
+popupWidth=432
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -122,6 +136,9 @@ plugin=org.kde.plasma.battery
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
+[Containments][8][Applets][20][Configuration]
+PreloadWeight=55
+
 [Containments][8][Applets][9]
 immutability=1
 plugin=org.kde.plasma.clipboard
@@ -132,3 +149,4 @@ knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasm
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=desktop:/config.tar.gz,0,87e072b1-6ac5-4ce6-95ab-41d88eee805a,desktop:/init.sh,0,87e072b1-6ac5-4ce6-95ab-41d88eee805a
