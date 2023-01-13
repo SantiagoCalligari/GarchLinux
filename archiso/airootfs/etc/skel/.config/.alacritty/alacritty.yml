@@ -1,0 +1,46 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator
+
+# Any items in the `env` entry below will be added as
+# environment variables. Some entries may override variables
+# set by alacritty it self.
+# env:
+  # TERM env customization.
+  #
+  # If this property is not set, alacritty will set it to xterm-256color.
+  #
+  # Note that some xterm terminfo databases don't declare support for italics.
+  # You can verify this by checking for the presence of `smso` and `sitm` in
+  # `infocmp xterm-256color`.
+  # TERM: xterm-256color-italic
+
+
+# Font configuration (changes require restart)
+font:
+  # The normal (roman) font face to use.
+  # Style can be specified to pick a specific face.
+  normal:
+    family: MesloLGS NF 
+    style: Regular
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+    # style: Retina
+
+  # The bold font face
+  bold:
+    family: MesloLGS NF
+    style: Bold
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+
+  # The italic font face
+  italic:
+    family: MesloLGS NF
+    style: Italic
+    # style: "Light Oblique"
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+    # style: "Medium Italic"
+
+  # Point size of the font
+  size: 15.0
+
