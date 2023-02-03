@@ -1,4 +1,3 @@
-# <span style="color:#66aaff;">:argentina: Garch Linux :argentina:</span>
 ![wallpaper](https://github.com/SantiagoCalligari/GarchLinux/blob/main/GarchLinuxImagenes/GarchaLinuxArgentina.png)
 ### "Optimize your system with Garch Linux"
 # Introduction
@@ -11,7 +10,8 @@ One of the main benefits of Garch Linux is its minimalism. By including only the
 In terms of its development, Garch Linux is a community-driven project that is constantly improving and evolving. It is built on the solid foundation of Arch Linux, a well-respected and widely used distribution known for its cutting-edge software and rolling release model.
 
 Overall, Garch Linux is a professional and well-crafted project that is perfect for users who want a fast and efficient operating system without any unnecessary distractions.
-
+#Disclaimer
+I'm just one person making a Linux Distro for fun, it is almost impossible that this linux distro has no errors. If you want to fix something make a pull request, thank you.
 # Installation
 ## Prerequisites
 
