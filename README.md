@@ -1,5 +1,5 @@
 # <span style="color:#66aaff;">:argentina: Garch Linux :argentina:</span>
-[wallpaper](https://raw.githubusercontent.com/SantiagoCalligari/GarchLinux/main/GarchLinuxImagenes/Garch.png)
+![wallpaper](https://raw.githubusercontent.com/SantiagoCalligari/GarchLinux/main/GarchLinuxImagenes/Garch.png)
 ### "Optimize your system with Garch Linux"
 # Introduction
 Garch Linux is a lightweight, minimal distribution based on Arch Linux. It is designed to provide only the essential software necessary for a functioning system, making it ideal for users who want a fast and efficient operating system without any unnecessary bloat.
